@@ -111,95 +111,19 @@ Pres(WMO)
 
 <td style="text-align:left;">
 
-2012232N13141
+2014327S08077
 
 </td>
 
 <td style="text-align:right;">
 
-2012
+2015
 
 </td>
 
 <td style="text-align:right;">
 
-16
-
-</td>
-
-<td style="text-align:left;">
-
-WP
-
-</td>
-
-<td style="text-align:left;">
-
-MM
-
-</td>
-
-<td style="text-align:left;">
-
-BOLAVEN
-
-</td>
-
-<td style="text-align:left;">
-
-8/31/12 18:00
-
-</td>
-
-<td style="text-align:left;">
-
-ET
-
-</td>
-
-<td style="text-align:right;">
-
-55.0
-
-</td>
-
-<td style="text-align:right;">
-
-167.2
-
-</td>
-
-<td style="text-align:right;">
-
-NA
-
-</td>
-
-<td style="text-align:right;">
-
-994
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-2009346S07086
-
-</td>
-
-<td style="text-align:right;">
-
-2010
-
-</td>
-
-<td style="text-align:right;">
-
-4
+2
 
 </td>
 
@@ -217,13 +141,13 @@ MM
 
 <td style="text-align:left;">
 
-DAVID
+0220142015:TWO
 
 </td>
 
 <td style="text-align:left;">
 
-12/25/09 18:00
+11/25/14 18:00
 
 </td>
 
@@ -235,25 +159,25 @@ TS
 
 <td style="text-align:right;">
 
-\-14.0
+\-10.9
 
 </td>
 
 <td style="text-align:right;">
 
-71.5
+69.7
 
 </td>
 
 <td style="text-align:right;">
 
-25
+30
 
 </td>
 
 <td style="text-align:right;">
 
-1000
+999
 
 </td>
 
@@ -263,19 +187,95 @@ TS
 
 <td style="text-align:left;">
 
-2012230N21126
+2014015S16043
 
 </td>
 
 <td style="text-align:right;">
 
-2012
+2014
 
 </td>
 
 <td style="text-align:right;">
 
-15
+8
+
+</td>
+
+<td style="text-align:left;">
+
+SI
+
+</td>
+
+<td style="text-align:left;">
+
+MM
+
+</td>
+
+<td style="text-align:left;">
+
+DELIWE
+
+</td>
+
+<td style="text-align:left;">
+
+1/16/14 0:00
+
+</td>
+
+<td style="text-align:left;">
+
+TS
+
+</td>
+
+<td style="text-align:right;">
+
+\-18.6
+
+</td>
+
+<td style="text-align:right;">
+
+44.1
+
+</td>
+
+<td style="text-align:right;">
+
+20
+
+</td>
+
+<td style="text-align:right;">
+
+1004
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+2013187N20156
+
+</td>
+
+<td style="text-align:right;">
+
+2013
+
+</td>
+
+<td style="text-align:right;">
+
+7
 
 </td>
 
@@ -293,31 +293,19 @@ MM
 
 <td style="text-align:left;">
 
-TEMBIN
+SOULIK
 
 </td>
 
 <td style="text-align:left;">
 
-8/18/12 18:00
+7/6/13 18:00
 
 </td>
 
 <td style="text-align:left;">
 
-TS
-
-</td>
-
-<td style="text-align:right;">
-
-17.8
-
-</td>
-
-<td style="text-align:right;">
-
-125.0
+NR
 
 </td>
 
@@ -329,7 +317,19 @@ NA
 
 <td style="text-align:right;">
 
-1006
+NA
+
+</td>
+
+<td style="text-align:right;">
+
+NA
+
+</td>
+
+<td style="text-align:right;">
+
+NA
 
 </td>
 
@@ -339,25 +339,25 @@ NA
 
 <td style="text-align:left;">
 
-2012272N22251
+2015274N17167
 
 </td>
 
 <td style="text-align:right;">
 
-2012
+2015
 
 </td>
 
 <td style="text-align:right;">
 
-14
+23
 
 </td>
 
 <td style="text-align:left;">
 
-EP
+WP
 
 </td>
 
@@ -369,43 +369,43 @@ MM
 
 <td style="text-align:left;">
 
-NORMAN
+CHOI-WAN
 
 </td>
 
 <td style="text-align:left;">
 
-9/29/12 0:00
+10/10/15 0:00
 
 </td>
 
 <td style="text-align:left;">
 
-TS
+ET
 
 </td>
 
 <td style="text-align:right;">
 
-24.9
+48.8
 
 </td>
 
 <td style="text-align:right;">
 
-\-108.9
+147.5
 
 </td>
 
 <td style="text-align:right;">
 
-35
+NA
 
 </td>
 
 <td style="text-align:right;">
 
-1001
+988
 
 </td>
 
@@ -415,7 +415,7 @@ TS
 
 <td style="text-align:left;">
 
-2014180N14255
+2014117N10145
 
 </td>
 
@@ -427,13 +427,13 @@ TS
 
 <td style="text-align:right;">
 
-4
+6
 
 </td>
 
 <td style="text-align:left;">
 
-EP
+WP
 
 </td>
 
@@ -445,13 +445,13 @@ MM
 
 <td style="text-align:left;">
 
-DOUGLAS
+TAPAH
 
 </td>
 
 <td style="text-align:left;">
 
-7/5/14 0:00
+4/27/14 18:00
 
 </td>
 
@@ -463,25 +463,25 @@ TS
 
 <td style="text-align:right;">
 
-22.2
+11.8
 
 </td>
 
 <td style="text-align:right;">
 
-\-118.8
+147.0
 
 </td>
 
 <td style="text-align:right;">
 
-35
+NA
 
 </td>
 
 <td style="text-align:right;">
 
-1006
+1004
 
 </td>
 
@@ -1025,7 +1025,9 @@ features including the nature, wind speed and pressure.
 ##### Map of all Storms Colored by Nature
 
 <img src="workout1-John-Schulz_files/figure-gfm/unnamed-chunk-27-1.png" style="display: block; margin: auto;" />
-\#\#\#\#\# Map of all Storms Colored by Wind Speed
+
+##### Map of all Storms Colored by Wind Speed
+
 <img src="workout1-John-Schulz_files/figure-gfm/unnamed-chunk-28-1.png" style="display: block; margin: auto;" />
 
 ##### Map of all Storms Colored by Pressure
