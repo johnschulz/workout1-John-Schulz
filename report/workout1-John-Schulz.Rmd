@@ -402,6 +402,7 @@ ggplot()+geom_polygon(data=map_data("world"), aes(x=long, y=lat, group=group)) +
   geom_point(data=storms, aes(x=Longitude, y=Latitude, col = Nature),size = .1) +
   scale_color_manual(labels = c("Disturbance", "Extratropical", "Conflicting Reports", "Not Reported", "Sub tropical","Tropical Storm"), values = c("purple", "blue","green", "red","orange","yellow"))
 ```
+
 ##### Map of all Storms Colored by Wind Speed
 ```{r echo =FALSE, fig.align='center', warning=FALSE}
 ggplot()+geom_polygon(data=map_data("world"), aes(x=long, y=lat, group=group)) +  
